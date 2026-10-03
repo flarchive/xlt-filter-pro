@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of xlt/filter-pro.** Not for installation: use [Packagist](https://packagist.org/packages/xlt/filter-pro) or the [upstream repository](https://github.com/XiaoLuoTian189/filter-pro).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/xlt-filter-pro/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/xlt-filter-pro/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2025-11-19 | `^1.2.0` | [Browse](https://github.com/flarchive/xlt-filter-pro/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/xlt-filter-pro.json](https://github.com/flarchive/archive-index/blob/main/packages/xlt-filter-pro.json)
 
